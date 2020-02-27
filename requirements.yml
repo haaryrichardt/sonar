@@ -1,0 +1,7 @@
+- name: jdauphant.nginx
+  version: v2.18.1
+  src: jdauphant.nginx
+
+- src: tecris.maven
+
+- src: geerlingguy.ansible
